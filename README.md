@@ -193,8 +193,4 @@ HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, React.js, Redux.js, Redux
 Built off of the portfolios shown on [Portfolio Charts](https://portfoliocharts.com/).
 
 # Author
-* [Matthew Fisher](https://github.com/MicroFish91)
-
-
-# Special Thanks
-* [Veronica Lino](https://github.com/vlino2015) - I could not have made it this far without you, thank you for being an amazing instructor!
+* [Roy Zhang](https://github.com/rz-roy)
